@@ -1,3 +1,4 @@
 minpal/cache/\*
 *~
 minpal/config/\database.php
+minpal/config/database.php
